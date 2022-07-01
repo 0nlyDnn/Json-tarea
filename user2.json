@@ -1,0 +1,15 @@
+{
+    "name": "Juan",
+    "lastname": "Sanchez Castro",
+    "age": 22,
+    "url": "img/tiburon.png",
+    "hobbies": [
+        "play",
+        "play",
+        "play"
+    ],
+    "Job": [
+        "Student",
+        "Network Technicial"
+    ]
+}

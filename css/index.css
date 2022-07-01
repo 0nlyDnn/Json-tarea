@@ -1,0 +1,60 @@
+body{
+    margin : 0px;
+    padding: 200px;
+    padding-left: -25px;
+    text-align: center;
+    display: flex;  
+    justify-content: center;    
+    align-items: center;
+    height: 100%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(4, 5, 5);
+    color: aliceblue;
+}
+
+.container{
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   font-size: 30px;
+
+}
+
+
+   #olis1{
+   position: relative;
+   display: inline-block;
+   padding: 15px 30px;  
+   margin: 15px 30px;
+   background: rgb(60, 227, 105)                                                         
+}
+
+#olis2{     
+   position: relative;
+   display: inline-block;
+   padding: 15px 30px;
+   background: rgb(66, 50, 243); 
+   margin: 15px 30px;
+}
+ 
+#olis3{
+   position: relative;
+   display: inline-block;
+   padding: 15px 30px;
+   background: rgb(245, 64, 218); 
+   margin: 15px 30px;
+}
+
+#olis4{ 
+   position: relative;
+   display: inline-block;
+   padding: 15px 30px;
+   background: rgb(251, 23, 23); 
+   margin: 15px 30px;
+
+}
+img{
+    height: 50px;
+    width: 50px;
+}
+
+
+ 

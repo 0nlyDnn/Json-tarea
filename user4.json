@@ -1,0 +1,12 @@
+{
+    "name": "Miguel",
+    "lastname": "Sanchez Villareal",
+    "age": 56,
+    "hobbies": [
+        "Listen to music",
+        "Watch tv",
+        "drink beer"
+    ],
+    "Job": "electric technicial",
+    "url": "img/leon.png"
+}

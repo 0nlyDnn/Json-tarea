@@ -1,0 +1,11 @@
+{
+    "name": "Carmen",
+    "lastname": "Castro Barraza",
+    "age": 48,
+    "hobbies": [
+        "Listen to music",
+        "Watch tv"
+    ],
+    "Job": "Housewife",
+    "url": "img/mariposa.png"
+}

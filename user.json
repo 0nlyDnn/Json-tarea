@@ -1,0 +1,12 @@
+{
+    "name": "Daniel",
+    "lastname": "Sanchez Castro",
+    "age": 17,
+    "hobbies": [
+        "play",
+        "play",
+        "play"
+    ],
+    "Job": "Student",
+    "url": "img/tucan.png"
+}
